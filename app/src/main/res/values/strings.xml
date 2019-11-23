@@ -26,4 +26,9 @@
     <string name="menu_tools">Tools</string>
     <string name="menu_share">Share</string>
     <string name="menu_send">Send</string>
+    <string name="communicate">Comunicate</string>
+    <string name="grades">Grades</string>
+    <string name="Google_classroom">Google Classroom</string>
+    <string name="time_table">Time Table</string>
+    <string name="welcome_user">Welcome!</string>
 </resources>
