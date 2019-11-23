@@ -10,7 +10,7 @@ public class User {
     {
         this.username = username;
     }
-    //ok
+
 
     public void setFullName(String fullName)
     {
@@ -21,7 +21,7 @@ public class User {
     {
         this.sessionExpiryDate = sessionExpiryDate;
     }
-    //okok
+
     public String getUsername() {
         return username;
     }
