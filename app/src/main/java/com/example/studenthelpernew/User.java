@@ -10,6 +10,7 @@ public class User {
     {
         this.username = username;
     }
+    //ok
 
     public void setFullName(String fullName)
     {
